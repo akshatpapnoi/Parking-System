@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+keras
+opencv-python   
+sockets
+pytest-shutil
+requests
+tensorflow 
